@@ -3,5 +3,3 @@
 # Taken @ https://projectworlds.in/free-projects/php-projects/php-online-file-storage-project-mini-dropbox-or-google-drive/
 
 ### Upgraded for Laravel 9
-# upgraded by:oretrnom23
-# published @: https://sourcecodester.com/php-laravel-file-management-system-source-code
